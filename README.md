@@ -38,19 +38,19 @@ https://v0-cite-me-ai.vercel.app
 ## Tech Stack
 
 ```
-Framework      : Next.js 14 (App Router)
-Language       : TypeScript 5
-Styling        : Tailwind CSS v4, shadcn/ui (New York), Radix UI
-Icons          : Lucide React
-Animation      : Motion (Framer Motion)
-Charts         : Recharts
-Forms          : React Hook Form + Zod
-Analytics      : Vercel Analytics
-Package Manager: pnpm
+Framework       : Next.js 14 (App Router)
+Language        : TypeScript 5
+Styling         : Tailwind CSS v4, shadcn/ui (New York), Radix UI
+Icons           : Lucide React
+Animation       : Motion (Framer Motion)
+Charts          : Recharts
+Forms           : React Hook Form + Zod
+Analytics       : Vercel Analytics
+Package Manager : pnpm
 ```
 
 ---
 
 ## Author
 
-**Gummadi Likith**
+[Gummadi Likith](https://github.com/glikith)
